@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = derrien.v@gmail.com
+	name = Valentin Derrien
